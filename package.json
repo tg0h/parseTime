@@ -1,0 +1,19 @@
+{
+  "name": "parsetime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ava": "^5.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
+}
