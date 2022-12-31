@@ -1,6 +1,3 @@
-function parseTime() {
-  console.log("hello world");
-  return 1;
-}
+import parse from 'lib/parse.js'
 
-parseTime();
+export { parse }
